@@ -25,4 +25,13 @@ You can push multiple commits in one shot
 There is no limit
 
 you cannot undo what already push but
-you can undo the last commit that happed
+you can undo the last commit that happend
+
+If you have commit in changes tab you donot
+wish to commit you can right click and select discard changed,
+It will also remove it from the sublime
+
+If you have commit that you did not push yet, 
+you have option to undo last commit by
+Clicking on undo button right under Commit to
+master button (IT WILL NOT SHOW UP IF YOU ALREADY PUSHED)
