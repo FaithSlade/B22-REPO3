@@ -35,3 +35,6 @@ If you have commit that you did not push yet,
 you have option to undo last commit by
 Clicking on undo button right under Commit to
 master button (IT WILL NOT SHOW UP IF YOU ALREADY PUSHED)
+
+*try not to deleted any on GitHub.com just do it on the 
+git local. 
